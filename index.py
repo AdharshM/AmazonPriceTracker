@@ -47,6 +47,6 @@ def send_mail():
 	print("MAIL SENT")
 
 
-while 1 < 2:
+while 1:
 	checkprice()
 	time.sleep(86400)									#Repeats Everyday
